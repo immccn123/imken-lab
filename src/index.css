@@ -1,0 +1,26 @@
+.card-details {
+  color: gray;
+}
+
+.card-title {
+  font-size: large;
+  /* margin: unset; */
+  margin: 5px 0 8px 0px;
+}
+
+.home-card {
+  width: 350px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-description {
+  height: 100%;
+}
+
+#tool-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
